@@ -10,7 +10,7 @@ const App = () => {
         <Navbar />
         <Header />
       </div>
-      <Feature />
+      {/* <Feature />
       <Article />
       <Brand />
       <Cta />
@@ -18,7 +18,7 @@ const App = () => {
       <Cta />
       <Evolvewd />
       <Features />
-      <Footer />
+      <Footer /> */}
 
       <Possibility />
     </div>
