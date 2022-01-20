@@ -10,17 +10,17 @@ const App = () => {
         <Navbar />
         <Header />
       </div>
+      <Brand />
+      <Evolvewd />
       {/* <Feature />
       <Article />
-      <Brand />
       <Cta />
       <Blog />
       <Cta />
-      <Evolvewd />
       <Features />
-      <Footer /> */}
+      <Footer /> 
 
-      <Possibility />
+      <Possibility />*/}
     </div>
   );
 };
